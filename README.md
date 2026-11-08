@@ -1,5 +1,4 @@
-### Hi there 👋
-### I'm Dong Chan Park. A student at the AI software department.
+
 <!--
 **feeljis131/feeljis131** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
